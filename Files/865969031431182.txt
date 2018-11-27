@@ -1,0 +1,281 @@
+[
+    {
+        "docId": "86056054", 
+        "title": "为帮儿子还债 亲妈找女儿要钱堵门八小时 女儿卖房还离婚", 
+        "date": "Aug 20, 2018 6:55:00 AM", 
+        "docType": "docpic", 
+        "why": "insertRecom#HotTagInsertCtr# #0.0# #perfectOld", 
+        "readableFeatures": "c=社会|!|", 
+        "others": "simID=clusterId_70160136|!|url=http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_74376089|!|null", 
+        "simId": "clusterId_70160136", 
+        "recomToken": "bb1dad9f-e2c2-40e2-8673-f0eb706e0d6d", 
+        "source": "封面新闻", 
+        "showReason": "{\"reasonName\":\"热点\",\"reasonStyle\":\"10\"}", 
+        "feedbackFeatures": "{\"5\":\"c_社会\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6Ijg2MDU2MDU0In0=", 
+        "url": "http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_74376089", 
+        "ctrQ": "0.0233", 
+        "reason": "{\"strategy\":\"insertRecom\",\"reason\":\"HotTagInsertCtr\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.0,\"recallTag\":\"[ToutiaoYidian#0.557#]亲妈帮儿子还债找女儿堵门8小时 女儿决定离婚\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\"}", 
+        "ext": {
+            "eventName": "亲妈帮儿子还债找女儿堵门8小时 女儿决定离婚"
+        }, 
+        "wemediaLevel": "", 
+        "picFingerprint": "60o7tvv3s7h4", 
+        "category": [
+            "社会"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool"
+    }, 
+    {
+        "docId": "84396246", 
+        "title": "高血压的凶手终于找到了，原来食盐被冤枉了，多数人都不知道", 
+        "date": "Aug 11, 2018 11:49:18 AM", 
+        "docType": "video", 
+        "why": "m#user_cf_e# #0.75# #perfectOld", 
+        "readableFeatures": "c=生活|!|c=健康|!|sc=养生|!|t=tp_13597|!|x=高血压|!|x=食盐|!|x=养生知识|!|", 
+        "others": "simID=clusterId_68469948|!|url=bf3eed6b-8a45-43cc-951c-e76edb7e2f43|!|null", 
+        "simId": "clusterId_68469948", 
+        "revealType": "specialView", 
+        "recomToken": "6bee7986-5334-4eee-b0af-0fa2bfacc45b", 
+        "source": "啄木鸟养生", 
+        "feedbackFeatures": "{\"5\":\"c_生活\",\"6\":\"c_健康\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6Ijg0Mzk2MjQ2In0=", 
+        "url": "bf3eed6b-8a45-43cc-951c-e76edb7e2f43", 
+        "ctrQ": "0.0538", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"user_cf_e\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.75,\"recallTag\":\"\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0538\"}", 
+        "ext": {
+            "specialParam": "{\"thumbnailpic\":\"http://p0.ifengimg.com/pmop/2018/0811/72ABFDFD15A38C78293D818B9718519BDE110ADF_size31_w904_h597.jpeg\",\"cpName\":\"一点资讯\",\"recommendLevel\":\"1\",\"fromChannel\":\"videoCmppSpider\"}"
+        }, 
+        "wemediaLevel": "", 
+        "picFingerprint": "1o700107juvvv", 
+        "category": [
+            "健康"
+        ], 
+        "specialParam": "{\"thumbnailpic\":\"http://p0.ifengimg.com/pmop/2018/0811/72ABFDFD15A38C78293D818B9718519BDE110ADF_size31_w904_h597.jpeg\",\"cpName\":\"一点资讯\",\"recommendLevel\":\"1\",\"fromChannel\":\"videoCmppSpider\"}", 
+        "isDoubleTitle": false, 
+        "videoRatingQ": "0.00054", 
+        "disType": "allpool"
+    }, 
+    {
+        "docId": "86025104", 
+        "title": "还原孙杨亚运领奖要求重新升国旗全过程，大白杨这举动让人感动", 
+        "date": "Aug 19, 2018 8:55:14 PM", 
+        "docType": "docpic", 
+        "why": "posi#pos_feedback_itemcf_docpic# #0.71# #perfectOld", 
+        "readableFeatures": "c=体育|!|sc=体育其他|!|e=200米自由泳|!|t=tp_11855|!|x=亚运会|!|x=自由泳|!|x=全满贯|!|", 
+        "others": "simID=clusterId_70142424|!|url=http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_74356063|!|null", 
+        "simId": "clusterId_70142424", 
+        "recomToken": "33fa0e40-1418-4b50-af57-62a9fd4cfa6b", 
+        "source": "泉城侃球", 
+        "feedbackFeatures": "{\"5\":\"c_体育\",\"6\":\"sc_体育其他\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6Ijg2MDI1MTA0In0=", 
+        "url": "http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_74356063", 
+        "ctrQ": "0.00712", 
+        "reason": "{\"strategy\":\"posi\",\"reason\":\"pos_feedback_itemcf_docpic\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.71,\"recallTag\":\"clusterId_70137990\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\"}", 
+        "wemediaLevel": "5", 
+        "picFingerprint": "86023pf4vntu1", 
+        "category": [
+            "体育"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool"
+    }, 
+    {
+        "docId": "84107920", 
+        "title": "3个男人用亲身经历告诉你：容易婚外有情的女人，都具备这一共性", 
+        "date": "Aug 9, 2018 9:32:39 PM", 
+        "docType": "docpic", 
+        "why": "m#user_cf_e# #0.54# #perfectOld", 
+        "readableFeatures": "c=情感|!|t=tp_13124|!|", 
+        "others": "simID=clusterId_8786925|!|url=http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_73006724|!|null", 
+        "simId": "clusterId_8786925", 
+        "recomToken": "d9f342c8-570b-46d5-93a0-41fbe760c1b1", 
+        "source": "女人笔记", 
+        "feedbackFeatures": "{\"5\":\"c_情感\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6Ijg0MTA3OTIwIn0=", 
+        "url": "http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_73006724", 
+        "ctrQ": "0.0423", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"user_cf_e\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.54,\"recallTag\":\"\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0423\"}", 
+        "wemediaLevel": "3", 
+        "picFingerprint": "fnssig4ajedo4", 
+        "category": [
+            "情感"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool", 
+        "sourceLv": "S"
+    }, 
+    {
+        "docId": "80077632", 
+        "title": "厨房大厨教你19种草鱼的做法，做法接地气，零难度，夏天吃最好！", 
+        "date": "Jul 22, 2018 7:46:30 AM", 
+        "docType": "docpic", 
+        "why": "m#MultiAlgMixRank_MixT1# #0.54# #perfectOld", 
+        "readableFeatures": "c=美食|!|sc= 美食其他|!|t=tp_11977|!|x=豆瓣酱|!|", 
+        "others": "simID=clusterId_63868399|!|url=http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_70232972|!|null", 
+        "simId": "clusterId_63868399", 
+        "recomToken": "f0cbf2f4-a8de-44a2-9bf0-9a36ef321373", 
+        "source": "吃货的寻味日记", 
+        "feedbackFeatures": "{\"5\":\"c_美食\",\"6\":\"sc_ 美食其他\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6IjgwMDc3NjMyIn0=", 
+        "url": "http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_70232972", 
+        "ctrQ": "0.0435", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"MultiAlgMixRank_MixT1\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.54,\"recallTag\":\"美食-\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0435\"}", 
+        "wemediaLevel": "4", 
+        "picFingerprint": "e3ob7sv7sc1g2", 
+        "category": [
+            "美食"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool", 
+        "sourceLv": "S"
+    }, 
+    {
+        "docId": "3ac5428a-5bac-41c3-877b-aeb21c594247", 
+        "title": "媒体精选", 
+        "docType": "mediaExcellent", 
+        "why": "media#Media_Ex", 
+        "recomToken": "a3b50447-64e3-49e6-ac3c-65baa86dca3d", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6IjNhYzU0MjhhLTViYWMtNDFjMy04NzdiLWFlYjIxYzU5NDI0NyJ9", 
+        "marqueeList": [
+            {
+                "subid": "1048008", 
+                "subName": "追丨史莫及"
+            }, 
+            {
+                "subid": "292963", 
+                "subName": "百家杂评"
+            }, 
+            {
+                "subid": "588148", 
+                "subName": "影响视觉"
+            }
+        ], 
+        "ctrQ": "0.01", 
+        "isDoubleTitle": false
+    }, 
+    {
+        "docId": "36189827", 
+        "title": "马云遭外国记者刁难抛出台湾问题 霸气回应大快人心！", 
+        "date": "Nov 17, 2017 7:32:54 PM", 
+        "docType": "video", 
+        "why": "m#user_cf_e# #0.69# #perfectOld", 
+        "readableFeatures": "c=财经|!|c=财经1|!|sc=财经人物|!|t=tp_3611|!|t=tp_10710|!|s1=科技小司机|!|et=马云|!|x=台湾问题|!|", 
+        "others": "simID=clusterId_17674476|!|url=11e59324-349b-4ce5-b864-0601f8d1f053|!|null", 
+        "simId": "clusterId_17674476", 
+        "revealType": "specialView", 
+        "recomToken": "e92cefeb-10ff-454d-8a46-8840f5c999b1", 
+        "source": "科技小司机", 
+        "feedbackFeatures": "{\"5\":\"c_财经\",\"6\":\"et_马云\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6IjM2MTg5ODI3In0=", 
+        "url": "11e59324-349b-4ce5-b864-0601f8d1f053", 
+        "ctrQ": "0.0530", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"user_cf_e\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.69,\"recallTag\":\"\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0530\"}", 
+        "ext": {
+            "specialParam": "{\"thumbnailpic\":\"http://p2.ifengimg.com/a/2017_46/9d6d1b15564d619.jpg\",\"cpName\":\"一点资讯\",\"fromChannel\":\"videoCmppEditor\"}"
+        }, 
+        "wemediaLevel": "", 
+        "picFingerprint": "c1rf7uvrj2200", 
+        "category": [
+            "财经"
+        ], 
+        "specialParam": "{\"thumbnailpic\":\"http://p2.ifengimg.com/a/2017_46/9d6d1b15564d619.jpg\",\"cpName\":\"一点资讯\",\"fromChannel\":\"videoCmppEditor\"}", 
+        "isDoubleTitle": false, 
+        "videoRatingQ": "0.00053", 
+        "disType": "cxpool"
+    }, 
+    {
+        "docId": "83691346", 
+        "title": "女人爱你还是“玩”你，只要做到这3点，立马让她“暴露无遗”！", 
+        "date": "Aug 8, 2018 11:14:21 AM", 
+        "docType": "docpic", 
+        "why": "m#user_cf_e# #0.64# #perfectOld", 
+        "readableFeatures": "c=情感|!|", 
+        "others": "simID=clusterId_21549167|!|url=http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_72704029|!|null", 
+        "simId": "clusterId_21549167", 
+        "recomToken": "93c7d390-2110-4f08-a54c-76a7a9c73bea", 
+        "source": "橘子情感典当铺", 
+        "feedbackFeatures": "{\"5\":\"c_情感\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6IjgzNjkxMzQ2In0=", 
+        "url": "http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_72704029", 
+        "ctrQ": "0.0409", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"user_cf_e\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.64,\"recallTag\":\"\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0409\"}", 
+        "wemediaLevel": "", 
+        "picFingerprint": "c1o70s3cdpv7s", 
+        "category": [
+            "情感"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool", 
+        "sourceLv": "S"
+    }, 
+    {
+        "docId": "85651925", 
+        "title": "中国、俄罗斯90年代的第一要案，高层怒斥：民族败类严惩不贷", 
+        "date": "Aug 17, 2018 5:36:36 PM", 
+        "docType": "docpic", 
+        "why": "m#cotag_d_last# #0.75# #perfectOld", 
+        "readableFeatures": "c=社会|!|sc=社会其他|!|t=tp_12445|!|x=俄罗斯|!|x=火车站|!|x=流动人口|!|x=铁道部|!|", 
+        "others": "simID=clusterId_69757675|!|url=http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_74157718|!|null", 
+        "simId": "clusterId_69757675", 
+        "recomToken": "c6b923ad-ec89-446d-8bed-8f4b89432172", 
+        "source": "吃饱了撑得慌", 
+        "feedbackFeatures": "{\"5\":\"c_社会\",\"6\":\"sc_社会其他\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6Ijg1NjUxOTI1In0=", 
+        "url": "http://api.3g.ifeng.com/api_vampire_article_detail?aid=sub_74157718", 
+        "ctrQ": "0.0421", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"cotag_d_last\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.75,\"recallTag\":\"社会-社会其他\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0421\"}", 
+        "wemediaLevel": "3", 
+        "picFingerprint": "1uerv7sfhk200", 
+        "category": [
+            "社会"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool"
+    }, 
+    {
+        "docId": "83494836", 
+        "title": "看了傅园慧的变化，好像误会baby了，原来矫正牙齿效果这么好", 
+        "date": "Aug 7, 2018 9:42:47 AM", 
+        "docType": "docpic", 
+        "why": "m#user_cf_e# #0.61# #perfectOld", 
+        "readableFeatures": "c=时尚|!|sc=美容美发|!|t=tp_12291|!|t=tp_20100|!|x=傅园慧|!|x=表情包|!|x=baby|!|", 
+        "others": "simID=clusterId_65748688|!|url=http://api.iclient.ifeng.com/ipadtestdoc?aid=cmpp_020000040378242|!|null", 
+        "simId": "clusterId_65748688", 
+        "recomToken": "293079c8-d9a7-4d12-a721-cff41fe1f9f7", 
+        "source": "时尚美妆潮人", 
+        "feedbackFeatures": "{\"5\":\"c_时尚\",\"6\":\"sc_美容美发\"}", 
+        "dataSource": 0, 
+        "statSource": 0, 
+        "payload": "eyJkb2NpZCI6IjgzNDk0ODM2In0=", 
+        "url": "http://api.iclient.ifeng.com/ipadtestdoc?aid=cmpp_020000040378242", 
+        "ctrQ": "0.0361", 
+        "reason": "{\"strategy\":\"m\",\"reason\":\"user_cf_e\",\"source\":\"\",\"sensitive\":\"longTime\",\"tag\":\"\",\"tagRank\":0,\"tagnum\":0,\"tagsimScore\":0.0,\"hotBoost\":0.61,\"recallTag\":\"\",\"debugInfo\":\"\",\"type\":0,\"recallId\":\"\",\"ctrOrigin\":\"0.0361\"}", 
+        "wemediaLevel": "", 
+        "picFingerprint": "4ikvm4h4dhtp7", 
+        "category": [
+            "时尚"
+        ], 
+        "isDoubleTitle": false, 
+        "disType": "allpool"
+    }
+]

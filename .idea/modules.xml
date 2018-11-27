@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/51Dapp.iml" filepath="$PROJECT_DIR$/51Dapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51Dapp-eos/51Dapp-eos.iml" filepath="$PROJECT_DIR$/51Dapp-eos/51Dapp-eos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51Dapp-eth/51Dapp-eth.iml" filepath="$PROJECT_DIR$/51Dapp-eth/51Dapp-eth.iml" />
+    </modules>
+  </component>
+</project>
